@@ -1,0 +1,14 @@
+Операции со строками
+	https://habr.com/ru/companies/ruvds/articles/500296/
+5 полезных вещей 
+	https://www.reg.ru/blog/5-klassnyh-veschej-kotorye-vy-mozhete-osvoit-s-python/
+различные методы 
+	https://docs.python.org/3/library/stdtypes.html#string-methods
+история IT
+	https://dzen.ru/a/Y1PCrL7TgDWtMzHU?sid=111922473914352640
+Словари и множества
+	https://docs.python.org/3/library/stdtypes.html#dict
+Синтаксис
+	https://peps.python.org/pep-0008/
+Как учить английский
+	https://dzen.ru/a/YfKAlDtRwx5KkobF
