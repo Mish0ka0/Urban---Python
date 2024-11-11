@@ -21,30 +21,30 @@ class House:
     def __len__(self):
         return self.number_of_floors
 
-    def __str__(self): #возвращает строковое представление объекта
+    def __str__(self):  #возвращает строковое представление объекта
         return f'Название: {self.name}, кол-во этажей: {self.number_of_floors}'
 
-    def __eq__(self, other): # ==
+    def __eq__(self, other):  # ==
         if isinstance(other, House):
             return self.number_of_floors == other.number_of_floors
 
-    def __lt__(self, other): # <
+    def __lt__(self, other):  # <
         if isinstance(other, House):
             return self.number_of_floors < other.number_of_floors
 
-    def __le__(self, other): # <=
+    def __le__(self, other):  # <=
         if isinstance(other, House):
             return self.number_of_floors <= other.number_of_floors
 
-    def __gt__(self, other): # >
+    def __gt__(self, other):  # >
         if isinstance(other, House):
             return self.number_of_floors > other.number_of_floors
 
-    def __ge__(self, other): # >=
+    def __ge__(self, other):  # >=
         if isinstance(other, House):
             return self.number_of_floors >= other.number_of_floors
 
-    def __ne__(self, other): # !=
+    def __ne__(self, other):  # !=
         if isinstance(other, House):
             return self.number_of_floors != other.number_of_floors
 
@@ -57,6 +57,7 @@ class House:
 
     def __radd__(self, other):
         return self.__add__(other)
+
 
 h1 = House('ЖК Эльбрус', 10)
 print(House.houses_history)
