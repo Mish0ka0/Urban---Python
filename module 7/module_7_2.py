@@ -1,6 +1,6 @@
 def custom_write(file_name, strings: list):
     my_dict = {}
-    file = open(file_name, 'a', encoding='utf-8')
+    file = open(file_name, 'w', encoding='utf-8')
     for i in range(len(strings)):
         my_tuple = (i+1, file.tell())
         my_dict.update({my_tuple: strings[i]})
