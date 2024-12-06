@@ -12,3 +12,5 @@
 	https://peps.python.org/pep-0008/
 Как учить английский
 	https://dzen.ru/a/YfKAlDtRwx5KkobF
+модуль os
+    https://docs.python.org/3/library/os.html
