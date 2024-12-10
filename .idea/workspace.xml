@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="функциональное программирование">
-      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +88,7 @@
     "Python.module_9_1.executor": "Run",
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
+    "Python.module_9_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Git__init",
     "ignore.virus.scanning.warn.message": "true",
@@ -527,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733810892672</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1733815207305</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733815207305</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
