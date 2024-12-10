@@ -7,14 +7,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="полезные штуки">
-      <change afterPath="$PROJECT_DIR$/.idea/Urban - Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module 8/module_8_1.py" afterDir="false" />
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="обновление полезных штук">
+      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/homeWork6.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/homeWork6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 1/module1hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 1- Базовые структуры данных/module1hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/homeWork10.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/homeWork10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/homeWork11.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/homeWork11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/homeWork7.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/homeWork7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/homeWork8.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/homeWork8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/homeWork9.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/homeWork9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/module2Hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/module2Hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 2/дз.txt" beforeDir="false" afterPath="$PROJECT_DIR$/module 2- Основные операторы/дз.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/homeWork12.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/homeWork12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/homeWork13.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/homeWork13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/homeWork14.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/homeWork14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/homeWork15.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/homeWork15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/homeWork16.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/homeWork16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/mod_3_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/mod_3_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/mod_3_hard_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/mod_3_hard_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/дз мод 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/дз мод 3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 3/дз.txt" beforeDir="false" afterPath="$PROJECT_DIR$/module 3- Функции/дз.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/fake_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 4- Модули и пакеты/fake_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/module_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 4- Модули и пакеты/module_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/module_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 4- Модули и пакеты/module_4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 4/true_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 4- Модули и пакеты/true_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 5/module_5_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 5- Классы и объекты/module_5_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 5/module_5_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 5- Классы и объекты/module_5_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 5/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 5- Классы и объекты/module_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 5/module_5_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 5- Классы и объекты/module_5_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 5/module_5_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 5- Классы и объекты/module_5_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 6/module_6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 6- Наследование классов/module_6_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 6/module_6_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 6- Наследование классов/module_6_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 6/module_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 6- Наследование классов/module_6_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 6/module_6_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 6- Наследование классов/module_6_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/module_7_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/module_7_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/module_7_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/module_7_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/module_7_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/module_7_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/module_7_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/module_7_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/module_7_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/module_7_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/products.txt" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/products.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 7/test_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/module 7- Работа с файлами и форматированный вывод/test_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 8/module_8_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 8- Исключения/module_8_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 8/module_8_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 8- Исключения/module_8_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 8/module_8_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 8- Исключения/module_8_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,45 +99,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
-    "Notification.DoNotAsk-Execution": "true",
-    "Python.01_inheritance.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.homeWork10.executor": "Run",
-    "Python.homeWork12.executor": "Run",
-    "Python.homeWork13.executor": "Run",
-    "Python.homeWork14.executor": "Run",
-    "Python.homeWork15.executor": "Run",
-    "Python.homeWork16.executor": "Run",
-    "Python.homeWork2.executor": "Run",
-    "Python.homeWork7.executor": "Run",
-    "Python.homeWork9.executor": "Run",
-    "Python.mod_3_hard_1.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_5_hard.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "Python.module_6_hard.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "Python.module_7_5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Git__init",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Urban - Python/module1",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Execution&quot;: &quot;External process execution failed&quot;,
+    &quot;Notification.DoNotAsk-Execution&quot;: &quot;true&quot;,
+    &quot;Python.01_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod_3_hard_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Git__init&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Urban - Python/module1&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Urban - Python\module1" />
@@ -470,7 +516,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733504503414</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="обработка исключений">
+      <option name="closed" value="true" />
+      <created>1733509393404</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1733509393404</updated>
+    </task>
+    <task id="LOCAL-00034" summary="обработка исключений">
+      <option name="closed" value="true" />
+      <created>1733724495877</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1733724495877</updated>
+    </task>
+    <task id="LOCAL-00035" summary="обработка исключений">
+      <option name="closed" value="true" />
+      <created>1733755914038</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1733755914038</updated>
+    </task>
+    <task id="LOCAL-00036" summary="обновление полезных штук">
+      <option name="closed" value="true" />
+      <created>1733755939576</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733755939576</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,6 +579,8 @@
     <MESSAGE value="ссылка на os" />
     <MESSAGE value="работа с файлами" />
     <MESSAGE value="полезные штуки" />
-    <option name="LAST_COMMIT_MESSAGE" value="полезные штуки" />
+    <MESSAGE value="обработка исключений" />
+    <MESSAGE value="обновление полезных штук" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновление полезных штук" />
   </component>
 </project>

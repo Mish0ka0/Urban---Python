@@ -5,7 +5,8 @@ class WordsFinder:
         for file in file_names:
             self.file_names.append(file)
 
-    def string_replace(self, st):
+    @staticmethod
+    def string_replace(st):
         punctuation = [',', '.', '=', '!', '?', ';', ':', ' - ']
         for char in punctuation:
             st = st.replace(char, '')
