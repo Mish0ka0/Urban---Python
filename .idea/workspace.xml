@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="функциональное программирование">
-      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Notification.DoNotAsk-Execution": "true",
     "Python.01_inheritance.executor": "Run",
     "Python.fake_math.executor": "Run",
+    "Python.homeWork1.executor": "Run",
     "Python.homeWork10.executor": "Run",
     "Python.homeWork12.executor": "Run",
     "Python.homeWork13.executor": "Run",
@@ -90,6 +91,7 @@
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Git__init",
     "ignore.virus.scanning.warn.message": "true",
@@ -545,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733819132786</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1733837692577</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1733837692577</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,5 +591,16 @@
     <MESSAGE value="изменение директорий" />
     <MESSAGE value="функциональное программирование" />
     <option name="LAST_COMMIT_MESSAGE" value="функциональное программирование" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_6.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
