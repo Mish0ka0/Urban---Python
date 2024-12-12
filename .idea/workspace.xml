@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="функциональное программирование">
-      <change afterPath="$PROJECT_DIR$/module 9- Инструменты функционального программироваия/module_9_7.py" afterDir="false" />
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="полезные штуки">
+      <change afterPath="$PROJECT_DIR$/module 10- Мультипоточность и Многопроцессность/module_10_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.homeWork7.executor": "Run",
     "Python.homeWork9.executor": "Run",
     "Python.mod_3_hard_1.executor": "Run",
+    "Python.module_10_1.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.module_4_2.executor": "Run",
     "Python.module_5_1.executor": "Run",
@@ -564,7 +565,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733913247991</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="функциональное программирование">
+      <option name="closed" value="true" />
+      <created>1733917960668</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1733917960668</updated>
+    </task>
+    <task id="LOCAL-00045" summary="полезные штуки">
+      <option name="closed" value="true" />
+      <created>1733918193219</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1733918193219</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -594,12 +611,12 @@
     <MESSAGE value="задача повышенной сложности" />
     <MESSAGE value="ссылка на os" />
     <MESSAGE value="работа с файлами" />
-    <MESSAGE value="полезные штуки" />
     <MESSAGE value="обработка исключений" />
     <MESSAGE value="обновление полезных штук" />
     <MESSAGE value="изменение директорий" />
     <MESSAGE value="функциональное программирование" />
-    <option name="LAST_COMMIT_MESSAGE" value="функциональное программирование" />
+    <MESSAGE value="полезные штуки" />
+    <option name="LAST_COMMIT_MESSAGE" value="полезные штуки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
