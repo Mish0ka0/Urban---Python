@@ -24,9 +24,6 @@ class Cafe:
         self.tables = tables
         self.queue = Queue()
 
-    def get_attr(self):
-        return self.tables
-
     def guest_arrival(self, *guests: Guest):
         for guest in guests:
             seated = False
