@@ -7,10 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="потоки">
-      <change afterPath="$PROJECT_DIR$/module 10- Мультипоточность и Многопроцессность/module_10_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="потоки" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,69 +48,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
-    "Notification.DoNotAsk-Execution": "true",
-    "Python.01_inheritance.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.homeWork1.executor": "Run",
-    "Python.homeWork10.executor": "Run",
-    "Python.homeWork12.executor": "Run",
-    "Python.homeWork13.executor": "Run",
-    "Python.homeWork14.executor": "Run",
-    "Python.homeWork15.executor": "Run",
-    "Python.homeWork16.executor": "Run",
-    "Python.homeWork2.executor": "Run",
-    "Python.homeWork7.executor": "Run",
-    "Python.homeWork9.executor": "Run",
-    "Python.mod_1.executor": "Run",
-    "Python.mod_3_hard_1.executor": "Run",
-    "Python.module_10_1.executor": "Run",
-    "Python.module_10_2.executor": "Run",
-    "Python.module_10_3.executor": "Run",
-    "Python.module_10_4.executor": "Run",
-    "Python.module_10_5.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_5_hard.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "Python.module_6_hard.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "Python.module_7_5.executor": "Run",
-    "Python.module_8_1.executor": "Run",
-    "Python.module_8_2.executor": "Run",
-    "Python.module_8_3.executor": "Run",
-    "Python.module_9_1.executor": "Run",
-    "Python.module_9_2.executor": "Run",
-    "Python.module_9_3.executor": "Run",
-    "Python.module_9_4.executor": "Run",
-    "Python.module_9_5.executor": "Run",
-    "Python.module_9_6.executor": "Run",
-    "Python.module_9_7.executor": "Run",
-    "Python.цууренкег.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Git__init",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Urban - Python/module1",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Execution&quot;: &quot;External process execution failed&quot;,
+    &quot;Notification.DoNotAsk-Execution&quot;: &quot;true&quot;,
+    &quot;Python.01_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod_3_hard_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.цууренкег.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Git__init&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Urban - Python/module1&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Urban - Python\module1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.module_5_4">
     <configuration name="module_10_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Urban - Python" />
       <option name="ENV_FILES" value="" />
@@ -249,14 +246,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00003" summary="полезные штуки">
-      <option name="closed" value="true" />
-      <created>1724648582622</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1724648582622</updated>
     </task>
     <task id="LOCAL-00004" summary="module3">
       <option name="closed" value="true" />
@@ -642,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734457872626</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="потоки">
+      <option name="closed" value="true" />
+      <created>1734461453715</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1734461453715</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
