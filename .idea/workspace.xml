@@ -8,8 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="полезные штуки 10 модуль">
-      <change afterPath="$PROJECT_DIR$/module 11- Стандартные и сторонние библиотеки Python/module_11_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +113,7 @@
       <recent name="D:\Urban - Python\module1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.module_5_4">
     <configuration name="module_10_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Urban - Python" />
       <option name="ENV_FILES" value="" />
