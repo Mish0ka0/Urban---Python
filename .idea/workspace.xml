@@ -7,8 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="полезные штуки 10 модуль">
-      <change afterPath="$PROJECT_DIR$/module 12- поддержка циклов разработки(тестирование)/module_12_1.py" afterDir="false" />
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 12, тесты">
+      <change afterPath="$PROJECT_DIR$/module 12- поддержка циклов разработки(тестирование)/module_12_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
     "Notification.DoNotAsk-Execution": "true",
     "Python tests.Python tests in module_12_1.py.executor": "Run",
+    "Python tests.Python tests in module_12_2.py.executor": "Run",
     "Python.01_inheritance.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.homeWork1.executor": "Run",
@@ -101,6 +102,7 @@
     "Python.module_9_5.executor": "Run",
     "Python.module_9_6.executor": "Run",
     "Python.module_9_7.executor": "Run",
+    "Python.runner_and_tournament.executor": "Run",
     "Python.цууренкег.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Git__init",
@@ -130,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00005" summary="set">
-      <option name="closed" value="true" />
-      <created>1724650767649</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1724650767649</updated>
     </task>
     <task id="LOCAL-00006" summary="module4">
       <option name="closed" value="true" />
@@ -523,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734461862925</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="модуль 12, тесты">
+      <option name="closed" value="true" />
+      <created>1735368932842</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1735368932843</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -560,6 +562,7 @@
     <MESSAGE value="полезные штуки" />
     <MESSAGE value="потоки" />
     <MESSAGE value="полезные штуки 10 модуль" />
-    <option name="LAST_COMMIT_MESSAGE" value="полезные штуки 10 модуль" />
+    <MESSAGE value="модуль 12, тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="модуль 12, тесты" />
   </component>
 </project>
