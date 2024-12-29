@@ -8,8 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 12, тесты">
-      <change afterPath="$PROJECT_DIR$/module 12- поддержка циклов разработки(тестирование)/suite_12_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module 12- поддержка циклов разработки(тестирование)/test_12_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 12- поддержка циклов разработки(тестирование)/test_12_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +58,7 @@
     "Python tests.Python tests in module_12_1.py.executor": "Run",
     "Python tests.Python tests in module_12_2.py.executor": "Run",
     "Python tests.Python tests in test_12_3.py.executor": "Run",
+    "Python tests.Python tests in test_12_4.py.executor": "Run",
     "Python.01_inheritance.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.homeWork1.executor": "Run",
@@ -135,14 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00007" summary="задание по пакетам">
-      <option name="closed" value="true" />
-      <created>1724733453034</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1724733453034</updated>
     </task>
     <task id="LOCAL-00008" summary="задание по пакетам">
       <option name="closed" value="true" />
@@ -528,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735468143134</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="модуль 12, тесты">
+      <option name="closed" value="true" />
+      <created>1735471894217</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1735471894218</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
