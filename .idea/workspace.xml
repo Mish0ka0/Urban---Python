@@ -8,7 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных">
-      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/module_14_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/image/vitamin_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/image/vitamin_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/image/vitamin_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/image/vitamin_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/module_14_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +92,7 @@
     "Python.module_13_5.executor": "Run",
     "Python.module_13_6.executor": "Run",
     "Python.module_14_2.executor": "Run",
+    "Python.module_14_3.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.module_4_2.executor": "Run",
     "Python.module_5_1.executor": "Run",
@@ -120,13 +126,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Git__init",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Urban - Python/module 13- Основы асинхронного программирования на базе фреймворка aiogram/module_13_2.py",
+    "last_opened_file_path": "D:/Urban - Python/module 14- Библиотека для работы с данными/image",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Urban - Python\module 14- Библиотека для работы с данными\image" />
       <recent name="D:\Urban - Python\module1" />
     </key>
   </component>
@@ -145,14 +152,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00016" summary="полезные штуки">
-      <option name="closed" value="true" />
-      <created>1731311087802</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1731311087802</updated>
     </task>
     <task id="LOCAL-00017" summary="переименовка директорий">
       <option name="closed" value="true" />
@@ -538,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736100199543</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="модуль 14, база данных">
+      <option name="closed" value="true" />
+      <created>1736101264661</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1736101264661</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
