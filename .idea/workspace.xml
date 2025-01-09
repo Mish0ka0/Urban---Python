@@ -8,10 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных">
-      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/crud_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/module_14_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/module_14_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/crud_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/crud_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +91,8 @@
     "Python.module_13_6.executor": "Run",
     "Python.module_14_2.executor": "Run",
     "Python.module_14_3.executor": "Run",
+    "Python.module_14_4.executor": "Run",
+    "Python.module_14_5.executor": "Run",
     "Python.module_4_1.executor": "Run",
     "Python.module_4_2.executor": "Run",
     "Python.module_5_1.executor": "Run",
@@ -150,22 +152,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00020" summary="наследование классов">
-      <option name="closed" value="true" />
-      <created>1732017237744</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1732017237744</updated>
-    </task>
-    <task id="LOCAL-00021" summary="наследование классов">
-      <option name="closed" value="true" />
-      <created>1732518270346</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1732518270346</updated>
     </task>
     <task id="LOCAL-00022" summary="полезные штуки">
       <option name="closed" value="true" />
@@ -543,7 +529,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736105688367</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="модуль 14, база данных">
+      <option name="closed" value="true" />
+      <created>1736109320511</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1736109320512</updated>
+    </task>
+    <task id="LOCAL-00070" summary="модуль 14, база данных">
+      <option name="closed" value="true" />
+      <created>1736109382411</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1736109382412</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="UnknownFeatures">
