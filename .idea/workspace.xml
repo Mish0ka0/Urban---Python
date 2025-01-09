@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных">
-      <change afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/module_14_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/crud_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/crud_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/database.db" afterDir="false" />
-    </list>
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724644209137</updated>
-    </task>
-    <task id="LOCAL-00022" summary="полезные штуки">
-      <option name="closed" value="true" />
-      <created>1732519371147</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1732519371147</updated>
     </task>
     <task id="LOCAL-00023" summary="задача повышенной сложности">
       <option name="closed" value="true" />
@@ -545,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736109382412</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="модуль 14, база данных">
+      <option name="closed" value="true" />
+      <created>1736411593321</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1736411593322</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="UnknownFeatures">
