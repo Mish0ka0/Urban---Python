@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных" />
+    <list default="true" id="930cfc30-a319-4c13-ba0a-5606c8ce12d3" name="Changes" comment="модуль 14, база данных">
+      <change afterPath="$PROJECT_DIR$/module_16/module_16_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/modeule_14_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/modeule_14_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/not_telegram.db" beforeDir="false" afterPath="$PROJECT_DIR$/module 14- Библиотека для работы с данными/not_telegram.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,89 +54,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Notification.DisplayName-DoNotAsk-Execution": "External process execution failed",
-    "Notification.DoNotAsk-Execution": "true",
-    "Python tests.Python tests in module_12_1.py.executor": "Run",
-    "Python tests.Python tests in module_12_2.py.executor": "Run",
-    "Python tests.Python tests in test_12_3.py.executor": "Run",
-    "Python tests.Python tests in test_12_4.py.executor": "Run",
-    "Python.01_inheritance.executor": "Run",
-    "Python.crud_functions.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.homeWork1.executor": "Run",
-    "Python.homeWork10.executor": "Run",
-    "Python.homeWork12.executor": "Run",
-    "Python.homeWork13.executor": "Run",
-    "Python.homeWork14.executor": "Run",
-    "Python.homeWork15.executor": "Run",
-    "Python.homeWork16.executor": "Run",
-    "Python.homeWork2.executor": "Run",
-    "Python.homeWork7.executor": "Run",
-    "Python.homeWork9.executor": "Run",
-    "Python.mod_1.executor": "Run",
-    "Python.mod_3_hard_1.executor": "Run",
-    "Python.modeule_14_1.executor": "Run",
-    "Python.module_10_1.executor": "Run",
-    "Python.module_10_2.executor": "Run",
-    "Python.module_10_3.executor": "Run",
-    "Python.module_10_4.executor": "Run",
-    "Python.module_10_5.executor": "Run",
-    "Python.module_11_1.executor": "Run",
-    "Python.module_13_1.executor": "Run",
-    "Python.module_13_2.executor": "Run",
-    "Python.module_13_3.executor": "Run",
-    "Python.module_13_4.executor": "Run",
-    "Python.module_13_5.executor": "Run",
-    "Python.module_13_6.executor": "Run",
-    "Python.module_14_2.executor": "Run",
-    "Python.module_14_3.executor": "Run",
-    "Python.module_14_4.executor": "Run",
-    "Python.module_14_5.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_2.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_5_hard.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "Python.module_6_hard.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "Python.module_7_5.executor": "Run",
-    "Python.module_8_1.executor": "Run",
-    "Python.module_8_2.executor": "Run",
-    "Python.module_8_3.executor": "Run",
-    "Python.module_9_1.executor": "Run",
-    "Python.module_9_2.executor": "Run",
-    "Python.module_9_3.executor": "Run",
-    "Python.module_9_4.executor": "Run",
-    "Python.module_9_5.executor": "Run",
-    "Python.module_9_6.executor": "Run",
-    "Python.module_9_7.executor": "Run",
-    "Python.runner_and_tournament.executor": "Run",
-    "Python.suite_12_3.executor": "Run",
-    "Python.test_12_4.executor": "Run",
-    "Python.wertehy.executor": "Run",
-    "Python.цууренкег.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Git__init",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Urban - Python/module 14- Библиотека для работы с данными/image",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Execution&quot;: &quot;External process execution failed&quot;,
+    &quot;Notification.DoNotAsk-Execution&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in module_12_1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in module_12_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_12_3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_12_4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crud_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homeWork9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mod_3_hard_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modeule_14_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_13_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_14_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_14_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_14_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_14_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_16_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.runner_and_tournament.executor&quot;: &quot;Run&quot;,
+    &quot;Python.suite_12_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_12_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wertehy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.цууренкег.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Git__init&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Urban - Python/.venv/Scripts/python.exe&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Urban - Python\module 14- Библиотека для работы с данными\image" />
       <recent name="D:\Urban - Python\module1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Urban - Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Urban - Python)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
